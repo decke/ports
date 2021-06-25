@@ -15,6 +15,10 @@ nat-anchor "docker/*"
 rdr-anchor "docker/*"
 anchor "docker/*"
 
+The following addition to your rc.conf is also required to make NAT work:
+
+gateway_enable="YES"
+
 Dockerd will automatically enable nat for each bridge managed
 by it:
 
