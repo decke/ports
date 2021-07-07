@@ -1,4 +1,4 @@
-U-Boot loader and related files for the FriendlyELEC NanoPi-R4S
+U-Boot loader and related files for the FriendlyARM NanoPi-R4S (4GB/LPDDR4)
 
 To install this bootloader on an sdcard just do:
 
