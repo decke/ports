@@ -1,3 +1,4 @@
+
 MASTERDIR=	${.CURDIR}/../u-boot-master
 
 MODEL=		nanopi-r4s
